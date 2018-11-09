@@ -1,0 +1,3 @@
+@this note is create by liuwenjie 
+
+the readattr.py is used to sort out all the information of pictures , I sort out all of information by sapce and '\n',the result is shown in test.csv
